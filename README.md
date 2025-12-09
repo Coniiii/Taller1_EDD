@@ -39,17 +39,6 @@ g++ -o programa main.cpp Direccion.cpp Elector.cpp Fecha.cpp
 ./programa         # Linux/macOS
 \`\`\`
 
-## Estructura del Proyecto
-\`\`\`
-TALLER1_EDD/
-├── main.cpp
-├── Elector.h/cpp
-├── Fecha.h/cpp
-├── Direccion.h/cpp
-├── servel.txt
-└── README.md
-\`\`\`
-
 ## Autor
 Constanza Olivos Fernández  
 Estructuras de Datos - 2022
